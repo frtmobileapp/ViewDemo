@@ -24,6 +24,7 @@
         android:textColor="#FF4040"
         tools:layout_editor_absoluteX="-15dp"
         tools:layout_editor_absoluteY="5dp" />
+    sss
 
 
 </android.support.constraint.ConstraintLayout>
